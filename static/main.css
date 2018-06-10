@@ -1,0 +1,14 @@
+/*  */
+h1{
+    text-align: center;
+    border-bottom: 1px solid gray;
+    background-color: aliceblue;
+}
+h3{
+    text-align: center;
+}
+div.center{
+    margin: 0 auto;
+    width: 90%;
+    left: 50%;
+}
